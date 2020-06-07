@@ -1,0 +1,146 @@
+body{
+    margin: 0px auto;
+    font-size: 1.3rem;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #40514E;
+    //font-family:"Helvetica Neue" verdana,s sans-serif;
+    //font-family: 'Caveat', cursive;
+}
+h1, h2, h3, h4{
+    color: #66BFBF;
+    font-weight: normal;
+    margin: px;
+    font-family: 'Sacramento', cursive; 
+}
+p{
+    font-size: 1rem;
+    line-height: 1.8em;
+}
+hr{
+    border: 5px dotted rgb(163, 149, 149);
+    border-bottom: none;
+    width: 8%;
+    margin: 60px auto 60px auto;
+}
+.rub{
+    font-size: 3rem;
+    margin-top: 0px;
+    //font-size: 100%;
+    font-style: italic;
+    font-family: 'Sacramento', cursive;   
+}
+.h2{
+    font-size: 1.2rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin: 0px;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 350px;
+}
+.botm-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 340px;
+}
+.top-containe, .middle-container, .bottom-container{
+    position: relative;
+    //height: 200px;
+   // width: 200px;
+}
+.top-container{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.middle-container{
+    
+    /*border: 20px black solid;
+    margin-left: 220px;*/
+    margin: 55px auto 55px auto;
+}
+.girl{
+    border-radius: 100%;
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1.5rem;
+}
+.design, .design2{
+    width: 200px;
+    border-radius: 100%;
+    float: right;
+    margin-right: 40px;
+}
+.design2{
+    float: left !important;
+}
+.btn{
+    background-color: #66BFBF;
+    width: 150px;
+    height: 40px;
+    margin: 20px 0 0 0;
+    border: 2px solid gray;
+    border-radius: 50%;
+}
+.bottom-container{   
+   /* border: 10px black solid;
+    margin-left: 460px;*/
+    background-color: #66BFBF;
+    padding: 50px 0 30px 0;
+}
+a{
+    color: #1199e1;
+    margin: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.copy{
+    font-size: 0.6rem;
+    color: white;
+}
+
+
+/*
+
+.container{
+    width: 300px;
+    height: 150px;
+    background-color: gray;
+    position: relative;
+}
+.d1{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    right: 0;
+    //left: 200px;
+    //top: 1128px;
+}
+.d2{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    position: absolute;
+    left: 0;
+    
+    left: 100px;
+    //top: 1028px;
+}
+.d3{
+    height: 100px;
+    width: 100px;
+    background-color: gold;
+    position: absolute;
+    
+    
+}*/
